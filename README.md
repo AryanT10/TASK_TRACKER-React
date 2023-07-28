@@ -44,12 +44,16 @@ App.js is the main component of the application
 
 Components directory contains the various components used in the application:
 
-  ->header.js handles the header display of the application
+  ->header.js handles the header display of the application.
+  
   ->Tasks.js manages the tasks display
+  
   ->AddTask.js provides functionality to add a task
+  
   ->Task.js provides functionality to display a single task
+  
   ->Button.js is a reusable button component
 
 # Technology Stack
-->React
-->React-Icons
+•React
+•React-Icons
