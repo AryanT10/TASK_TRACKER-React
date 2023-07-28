@@ -20,7 +20,7 @@ From your command line:
 
 # Clone this repository
 
-$ git clone https://github.com/yourusername/task-tracker-app
+$ git clone git@github.com:AryanT10/TASK_TRACKER-react.git
 
 # Go into the repository
 
